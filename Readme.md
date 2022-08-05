@@ -29,7 +29,7 @@ Project mjorly built from
 HTML, CSS...
 
 ## Demo | Netlify
-https://trends-2025.netlify.app/
+https://justice-priority.netlify.app/
 
 
 ## Screenshots
